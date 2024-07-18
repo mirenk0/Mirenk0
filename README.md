@@ -8,6 +8,11 @@
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mirenk0&theme=github_dark" alt="mirenk0's GitHub Stats"/>
 </div>
 
+<div align="center">
+    <img src="https://raw.githubusercontent.com/mirenk0/mirenk0/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake Animation"/>
+</div>
+
+
 <!---
 Mirenk0/Mirenk0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
