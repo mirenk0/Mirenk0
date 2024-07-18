@@ -7,7 +7,10 @@
 #### **Software and Computer Engineer**
 #### **currently doing research in DL and CS**
 
+</div>
 
+
+</div>
 
 >Languages and Tech:
 
