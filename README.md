@@ -7,6 +7,8 @@
 #### **Software and Computer Engineer**
 #### **currently doing research in DL and CS**
 
+
+
 >Languages and Tech:
 
 `Go - Python - C - Assembly - SML - Ocaml - Racket - JavaScript/Typescript - Node.js - Java - CSS/HTML - React.js - SQL - PostgreSQL - MySQL - Neo4j - Redis - Docker - Bash`
