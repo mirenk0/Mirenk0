@@ -12,7 +12,7 @@
 
 >Looking at
 
-`Zig - Odin - Elixir - Godot`
+`Zig - Odin - Elixir - Godot - ML/Deep Learning`
 
 >Misc Expertise
 
