@@ -4,13 +4,9 @@
     </h1>
 </div>
 
-#### **Software and Computer Engineer**
-#### **currently doing research in DL and CS**
+#### **Software and Computer Engineer - currently doing research in DL and CS**
 
-</div>
-
-
-</div>
+<hr>
 
 >Languages and Tech:
 
