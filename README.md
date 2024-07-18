@@ -4,17 +4,20 @@
     </h1>
 </div>
 
->Languages and Tech
+#### **Software and Computer Engineer**
+#### **currently doing research in DL and CS**
+
+>Languages and Tech:
 
 `Go - Python - C - Assembly - SML - Ocaml - Racket - JavaScript/Typescript - Node.js - Java - CSS/HTML - React.js - SQL - PostgreSQL - MySQL - Neo4j - Redis - Docker - Bash`
 
 >There are more frameworks for specific languages and environments I have played with, not worth typing everything, point's been made.
 
->Looking at
+>Looking at:
 
 `Zig - Odin - Elixir - Godot - ML/Deep Learning`
 
->Misc Expertise
+>Misc Expertise:
 
 `Blender, ZBrush, Unreal Engine, Photoshop, Substance, Houdini, DaVinci Resolve, Fusion, After Effects, Sound (Ableton), 2D/3D creative`
 
