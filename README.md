@@ -5,6 +5,7 @@
 </div>
 
 #### **Software and Computer Engineer - currently doing research in DL and CS**
+*Planning to do some new interesting things at the moment...*
 
 <hr>
 
