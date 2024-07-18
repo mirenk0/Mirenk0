@@ -12,6 +12,8 @@
 >Looking at
 `Zig - Odin - Elixir - Godot`
 
+>Misc Expertise
+`Blender, ZBrush, Unreal Engine, Photoshop, Substance, Houdini, DaVinci Resolve, Fusion, After Effects, Sound (Ableton), 2D/3D creative`
 
 
 <!---
