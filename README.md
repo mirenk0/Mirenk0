@@ -4,6 +4,10 @@
     </h1>
 </div>
 
+<div align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mirenk0&theme=github_dark" alt="mirenk0's GitHub Stats"/>
+</div>
+
 <!---
 Mirenk0/Mirenk0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
