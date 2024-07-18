@@ -4,9 +4,7 @@
     </h1>
 </div>
 
-<div align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mirenk0&theme=github_dark" alt="mirenk0's GitHub Stats"/>
-</div>
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mirenk0&langs_count=5&theme=tokyonight)]()
 
 
 
