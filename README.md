@@ -4,7 +4,12 @@
     </h1>
 </div>
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mirenk0&langs_count=10&theme=tokyonight)]()
+>Languages and Tech
+`Go - Python - C - Assembly - SML - Ocaml - Racket - JavaScript/Typescript - Node.js - Java - CSS/HTML - React.js - SQL - PostgreSQL - MySQL - Neo4j - Redis - Docker - Bash`
+>There are more frameworks for specific languages and environments I have played with, not worth typing everything, point's been made.
+
+>Looking at
+`Zig - Odin - Elixir - Godot`
 
 
 
