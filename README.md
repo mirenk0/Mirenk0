@@ -21,8 +21,7 @@
 
 >Misc Expertise:
 
-`Blender, ZBrush, Unreal Engine, Photoshop, Substance, Houdini, DaVinci Resolve, Fusion, After Effects, Sound (Ableton), 2D/3D creative...++`
-
+`Blender, ZBrush, Unreal Engine, Photoshop, Substance, Houdini, DaVinci Resolve, Fusion, After Effects, Sound (Ableton)`
 
 <!---
 Mirenk0/Mirenk0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
