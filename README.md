@@ -4,20 +4,20 @@
     </h1>
 </div>
 
-#### **Software and Computer Engineer - currently doing research in DL and CS**
+#### **Software and Computer Engineer - currently doing research in DL and computing systems**
 *Planning to do some new interesting things at the moment...*
 
 <hr>
 
 >Languages and Tech:
 
-`Go - Python - C - Assembly - SML - Ocaml - Racket - JavaScript/Typescript - Node.js - Java - CSS/HTML - React.js - SQL - PostgreSQL - MySQL - Neo4j - Redis - Docker - Bash`
+`Go - Python - C - Assembly - SML - Racket - Elixir - JavaScript/Typescript/Node.js - Java - CSS/HTML - React.js - SQL - PostgreSQL - MySQL - Neo4j - Redis - Docker - Bash`
 
 >There are more frameworks for specific languages and environments I have played with, not worth typing everything, point's been made.
 
 >Looking at:
 
-`Zig - Odin - Elixir - Godot - ML/Deep Learning`
+`Zig - Odin - C++`
 
 >Misc Expertise:
 
