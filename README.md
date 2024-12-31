@@ -4,7 +4,7 @@
     </h1>
 </div>
 
-#### **Software and Computer Engineer - currently doing research in AI/DL and computing systems**
+#### **Software and Computer Engineer - currently doing research in DL/AI and computing systems**
 *Planning to do some new interesting things at the moment...*
 
 <hr>
