@@ -11,7 +11,7 @@
 
 >Languages and Tech:
 
-`Go - Python - C - Assembly - SML - Racket - Elixir - JavaScript/Typescript - Java - CSS/HTML - React.js - SQL - PostgreSQL - MySQL - Neo4j - Redis - Docker - Bash - Lua`
+`Go - Python - C - Assembly - SML - Racket - Elixir - JavaScript/Typescript - Java - CSS/HTML - React.js - SQL - PostgreSQL - Neo4j - Redis - Docker - Bash(shell) - Lua`
 
 >There are more frameworks for specific languages and environments I have played with, not worth typing everything, point's been made.
 
