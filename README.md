@@ -17,7 +17,7 @@
 
 >Looking at:
 
-`C++ - Zig - Odin`
+`C++ - Zig - Odin - Rust(idk how I to feel about this one)`
 
 >Misc Expertise:
 
