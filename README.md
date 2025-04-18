@@ -19,7 +19,7 @@ There are more frameworks for specific languages and environments I have played 
 
 >Looking at:
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,zig,rust,ocaml)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=zig,rust,ocaml)](https://skillicons.dev)
 + odin
 
 >Misc Expertise:
