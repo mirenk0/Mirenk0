@@ -9,14 +9,12 @@
 <hr>
 
 >Languages and Tech:
-
-[![My Skills](https://skillicons.dev/icons?i=c,vim,neovim,docker,cpp,cmake,git,elixir,go,unreal,unity,linux,postgres,sqlite,redis,mongodb,lua,python,bash,java,html,css,react,js,ts)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,vim,neovim,docker,cmake,git,elixir,erlang,go,unreal,unity,linux,postgres,sqlite,redis,mongodb,lua,python,bash,cs,java,html,css,react,threejs,js,ts)](https://skillicons.dev)
 + sml-racket-neo4j
 
 >There are more frameworks for specific languages and environments I have played with, not worth typing everything, point's been made.
 
 >Looking at:
-
 [![My Skills](https://skillicons.dev/icons?i=cpp,zig,rust,ocaml)](https://skillicons.dev)
 + odin
 
