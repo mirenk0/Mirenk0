@@ -9,6 +9,7 @@
 <hr>
 >Strong knowledge of CS, including all systematics, both in low-level and high-level.
 
+
 >Languages and Tech:
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,vim,neovim,docker,cmake,git,elixir,go,unreal,unity,linux,postgres,sqlite,redis,mongodb,lua,python,bash,cs,java,html,css,react,threejs,js,ts)](https://skillicons.dev)
