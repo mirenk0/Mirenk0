@@ -7,6 +7,7 @@
 #### **Software and Computer Engineer - currently doing research in DL/AI and computing systems**
 
 <hr>
+>Strong knowledge of CS, including all systematics, both in low-level and high-level.
 
 >Languages and Tech:
 
