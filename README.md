@@ -12,7 +12,7 @@
 
 >Languages and Tech:
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,vim,neovim,docker,cmake,git,elixir,go,unreal,unity,linux,postgres,sqlite,redis,mongodb,lua,python,bash,cs,java,html,css,react,threejs,js,ts)](https://skillicons.dev)<img height="42" width="42" src="https://cdn.simpleicons.org/racket/red/red" />
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,vim,neovim,docker,cmake,git,elixir,go,unreal,unity,linux,postgres,sqlite,redis,mongodb,lua,python,bash,cs,java,html,css,react,threejs,js,ts)](https://skillicons.dev)<img height="42" width="42" src="https://cdn.simpleicons.org/racket/red" />
 + SML, Racket(fav lisp flavor), Neo4j
 
 There are more frameworks for specific languages and environments I have played with, not worth typing everything, point's been made.
