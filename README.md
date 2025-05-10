@@ -15,7 +15,7 @@
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,vim,neovim,docker,cmake,git,elixir,go,unreal,unity,linux,postgres,sqlite,redis,mongodb,lua,python,bash,cs,java,html,css,react,threejs,js,ts)](https://skillicons.dev)
 <img height="42" width="42" src="https://cdn.simpleicons.org/racket/red" />
 <img height="42" width="42" src="https://cdn.simpleicons.org/neo4j" />
-<img height="42" width="42" src="https://cdn.simpleicons.org/sml" />
+<img height="42" width="42" src="https://www.smlnj.org/images/Lindig2.jpeg" />
 + SML
 
 There are more frameworks for specific languages and environments I have played with, not worth typing everything, point's been made.
