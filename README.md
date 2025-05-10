@@ -19,7 +19,7 @@ There are more frameworks for specific languages and environments I have played 
 
 >Looking at:
 
-[![My Skills](https://skillicons.dev/icons?i=zig,rust,ocaml)](https://skillicons.dev) [!https://go-skill-icons.vercel.app/api/icons?i=odin]
+[![My Skills](https://skillicons.dev/icons?i=zig,rust,ocaml)](https://skillicons.dev) !(https://go-skill-icons.vercel.app/api/icons?i=odin)
 
 >Misc Expertise:
 
