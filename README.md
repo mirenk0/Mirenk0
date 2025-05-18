@@ -22,9 +22,6 @@ There are more frameworks for specific languages and environments I have played 
 
 [![My Skills](https://skillicons.dev/icons?i=zig,rust,ocaml)](https://skillicons.dev) ![Odin](https://go-skill-icons.vercel.app/api/icons?i=odin)
 
->Misc Expertise:
-
-`Blender, ZBrush, Unreal Engine, Photoshop, Substance, Houdini, DaVinci Resolve, Fusion, After Effects, Sound (Ableton) and other things that I won't write about here`
 
 <!---
 Mirenk0/Mirenk0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
