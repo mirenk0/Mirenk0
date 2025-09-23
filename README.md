@@ -8,8 +8,6 @@
 
 <hr>
 
->Strong knowledge of CS, including all systematics, both in low-level and high-level.
-
 >Languages and Tech:
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,vim,docker,cmake,git,elixir,go,unreal,unity,linux,postgres,sqlite,redis,mongodb,lua,python,bash,cs,java,html,css,react,threejs,js,ts)](https://skillicons.dev)
@@ -18,7 +16,7 @@
 
 There are more frameworks for specific languages and environments I have played with, not worth typing everything, point's been made.
 
->Looking at:
+>Testing:
 
 [![My Skills](https://skillicons.dev/icons?i=zig,rust,ocaml)](https://skillicons.dev) ![Odin](https://go-skill-icons.vercel.app/api/icons?i=odin)
 
