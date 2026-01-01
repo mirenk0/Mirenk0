@@ -14,7 +14,6 @@
 
 <img height="42" width="42" src="https://cdn.simpleicons.org/racket/red" /> <img height="42" width="42" src="https://cdn.simpleicons.org/neo4j" /> <img height="42" width="42" src="https://www.smlnj.org/images/Lindig2.jpeg" />
 
-There are more frameworks for specific languages and environments I have played with, not worth typing everything, point's been made.
 
 >Testing:
 
